@@ -1,0 +1,31 @@
+{
+
+  “title”: “帮助中心”,
+
+  “description”: “CC视频帮助中心”,
+
+  “author”: “bokecc.com”,
+
+  “language”: “zh-hans”,
+
+  “root”: “.”,
+
+  “links”: {
+
+    “sidebar”: {
+
+      “主页”: “https://www.crifan.com”;,
+
+      “Github源码”: “https://github.com/crifan/http_summary”;
+
+    }
+
+  },
+
+  “plugins”: [
+
+    “-search”
+
+  ]
+
+}
