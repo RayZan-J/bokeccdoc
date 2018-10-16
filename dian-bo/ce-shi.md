@@ -133,7 +133,7 @@ userRole和fromuserrole对应关系表示如下:
     publisher: 主讲;
     teacher: 助教;
     host: 主持人;
-    student: 学员（观众）;
+    student: 学员（观众）;  
 ```
 
 
